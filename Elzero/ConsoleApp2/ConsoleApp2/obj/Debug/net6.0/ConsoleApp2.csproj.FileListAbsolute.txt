@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+E:\اسامة الزيرو\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll

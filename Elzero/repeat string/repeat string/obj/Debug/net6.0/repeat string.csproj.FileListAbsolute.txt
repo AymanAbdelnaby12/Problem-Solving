@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\repeat string\repeat string\bin\Debug\net6.0\repeat string.exe
+E:\اسامة الزيرو\repeat string\repeat string\bin\Debug\net6.0\repeat string.deps.json
+E:\اسامة الزيرو\repeat string\repeat string\bin\Debug\net6.0\repeat string.runtimeconfig.json
+E:\اسامة الزيرو\repeat string\repeat string\bin\Debug\net6.0\repeat string.dll
+E:\اسامة الزيرو\repeat string\repeat string\bin\Debug\net6.0\repeat string.pdb
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\repeat string.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\repeat string.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\repeat string.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\repeat string.AssemblyInfo.cs
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\repeat string.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\repeat string.dll
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\refint\repeat string.dll
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\repeat string.pdb
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\repeat string.genruntimeconfig.cache
+E:\اسامة الزيرو\repeat string\repeat string\obj\Debug\net6.0\ref\repeat string.dll

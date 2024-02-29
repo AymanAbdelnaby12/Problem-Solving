@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\quarter of the year\quarter of the year\bin\Debug\net6.0\quarter of the year.exe
+E:\اسامة الزيرو\quarter of the year\quarter of the year\bin\Debug\net6.0\quarter of the year.deps.json
+E:\اسامة الزيرو\quarter of the year\quarter of the year\bin\Debug\net6.0\quarter of the year.runtimeconfig.json
+E:\اسامة الزيرو\quarter of the year\quarter of the year\bin\Debug\net6.0\quarter of the year.dll
+E:\اسامة الزيرو\quarter of the year\quarter of the year\bin\Debug\net6.0\quarter of the year.pdb
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\quarter of the year.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\quarter of the year.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\quarter of the year.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\quarter of the year.AssemblyInfo.cs
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\quarter of the year.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\quarter of the year.dll
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\refint\quarter of the year.dll
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\quarter of the year.pdb
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\quarter of the year.genruntimeconfig.cache
+E:\اسامة الزيرو\quarter of the year\quarter of the year\obj\Debug\net6.0\ref\quarter of the year.dll

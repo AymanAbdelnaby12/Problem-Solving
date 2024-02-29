@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert A Boolean To A String", "Convert A Boolean To A String\Convert A Boolean To A String.csproj", "{78E6E89B-1E60-4D3E-9403-A88CE201A622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78E6E89B-1E60-4D3E-9403-A88CE201A622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E6E89B-1E60-4D3E-9403-A88CE201A622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E6E89B-1E60-4D3E-9403-A88CE201A622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E6E89B-1E60-4D3E-9403-A88CE201A622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1942A6A7-3DEA-423B-86E7-3C1AF216539F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "remove first and last char/1.0.0": {
+        "runtime": {
+          "remove first and last char.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "remove first and last char/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

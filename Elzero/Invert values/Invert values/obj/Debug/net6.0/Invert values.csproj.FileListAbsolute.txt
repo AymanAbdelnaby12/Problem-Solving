@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\Invert values\Invert values\bin\Debug\net6.0\Invert values.exe
+E:\اسامة الزيرو\Invert values\Invert values\bin\Debug\net6.0\Invert values.deps.json
+E:\اسامة الزيرو\Invert values\Invert values\bin\Debug\net6.0\Invert values.runtimeconfig.json
+E:\اسامة الزيرو\Invert values\Invert values\bin\Debug\net6.0\Invert values.dll
+E:\اسامة الزيرو\Invert values\Invert values\bin\Debug\net6.0\Invert values.pdb
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\Invert values.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\Invert values.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\Invert values.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\Invert values.AssemblyInfo.cs
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\Invert values.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\Invert values.dll
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\refint\Invert values.dll
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\Invert values.pdb
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\Invert values.genruntimeconfig.cache
+E:\اسامة الزيرو\Invert values\Invert values\obj\Debug\net6.0\ref\Invert values.dll

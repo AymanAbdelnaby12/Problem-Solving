@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\reversing string\reversing string\bin\Debug\net6.0\reversing string.exe
+E:\اسامة الزيرو\reversing string\reversing string\bin\Debug\net6.0\reversing string.deps.json
+E:\اسامة الزيرو\reversing string\reversing string\bin\Debug\net6.0\reversing string.runtimeconfig.json
+E:\اسامة الزيرو\reversing string\reversing string\bin\Debug\net6.0\reversing string.dll
+E:\اسامة الزيرو\reversing string\reversing string\bin\Debug\net6.0\reversing string.pdb
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\reversing string.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\reversing string.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\reversing string.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\reversing string.AssemblyInfo.cs
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\reversing string.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\reversing string.dll
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\refint\reversing string.dll
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\reversing string.pdb
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\reversing string.genruntimeconfig.cache
+E:\اسامة الزيرو\reversing string\reversing string\obj\Debug\net6.0\ref\reversing string.dll

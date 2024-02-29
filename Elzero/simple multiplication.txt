@@ -1,0 +1,6 @@
+﻿22:46:09:061	Build started...
+22:46:09:505	1>------ Build started: Project: ConsoleApp1, Configuration: Debug Any CPU ------
+22:46:09:663	1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+22:46:11:387	1>ConsoleApp1 -> E:\اسامة الزيرو\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+22:46:11:424	========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+22:46:11:424	========== Build started at 10:46 PM and took 02.594 seconds ==========

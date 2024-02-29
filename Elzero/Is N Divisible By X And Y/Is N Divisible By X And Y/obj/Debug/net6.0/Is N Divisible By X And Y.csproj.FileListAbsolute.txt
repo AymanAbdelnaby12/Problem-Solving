@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\bin\Debug\net6.0\Is N Divisible By X And Y.exe
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\bin\Debug\net6.0\Is N Divisible By X And Y.deps.json
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\bin\Debug\net6.0\Is N Divisible By X And Y.runtimeconfig.json
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\bin\Debug\net6.0\Is N Divisible By X And Y.dll
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\bin\Debug\net6.0\Is N Divisible By X And Y.pdb
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\Is N Divisible By X And Y.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\Is N Divisible By X And Y.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\Is N Divisible By X And Y.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\Is N Divisible By X And Y.AssemblyInfo.cs
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\Is N Divisible By X And Y.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\Is N Divisible By X And Y.dll
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\refint\Is N Divisible By X And Y.dll
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\Is N Divisible By X And Y.pdb
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\Is N Divisible By X And Y.genruntimeconfig.cache
+E:\اسامة الزيرو\Is N Divisible By X And Y\Is N Divisible By X And Y\obj\Debug\net6.0\ref\Is N Divisible By X And Y.dll

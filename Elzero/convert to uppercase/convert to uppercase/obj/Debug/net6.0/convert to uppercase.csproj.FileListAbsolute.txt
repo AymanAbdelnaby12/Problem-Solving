@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\bin\Debug\net6.0\convert to uppercase.exe
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\bin\Debug\net6.0\convert to uppercase.deps.json
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\bin\Debug\net6.0\convert to uppercase.runtimeconfig.json
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\bin\Debug\net6.0\convert to uppercase.dll
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\bin\Debug\net6.0\convert to uppercase.pdb
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\convert to uppercase.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\convert to uppercase.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\convert to uppercase.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\convert to uppercase.AssemblyInfo.cs
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\convert to uppercase.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\convert to uppercase.dll
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\refint\convert to uppercase.dll
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\convert to uppercase.pdb
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\convert to uppercase.genruntimeconfig.cache
+E:\اسامة الزيرو\convert to uppercase\convert to uppercase\obj\Debug\net6.0\ref\convert to uppercase.dll

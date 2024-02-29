@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove space", "remove space\remove space.csproj", "{87077483-B2C5-4E40-A160-183FC0D3B38A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87077483-B2C5-4E40-A160-183FC0D3B38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87077483-B2C5-4E40-A160-183FC0D3B38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87077483-B2C5-4E40-A160-183FC0D3B38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87077483-B2C5-4E40-A160-183FC0D3B38A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D9778BF-74FE-445C-97CC-6B40540A1D43}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\remove space\remove space\bin\Debug\net6.0\remove space.exe
+E:\اسامة الزيرو\remove space\remove space\bin\Debug\net6.0\remove space.deps.json
+E:\اسامة الزيرو\remove space\remove space\bin\Debug\net6.0\remove space.runtimeconfig.json
+E:\اسامة الزيرو\remove space\remove space\bin\Debug\net6.0\remove space.dll
+E:\اسامة الزيرو\remove space\remove space\bin\Debug\net6.0\remove space.pdb
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\remove space.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\remove space.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\remove space.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\remove space.AssemblyInfo.cs
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\remove space.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\remove space.dll
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\refint\remove space.dll
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\remove space.pdb
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\remove space.genruntimeconfig.cache
+E:\اسامة الزيرو\remove space\remove space\obj\Debug\net6.0\ref\remove space.dll

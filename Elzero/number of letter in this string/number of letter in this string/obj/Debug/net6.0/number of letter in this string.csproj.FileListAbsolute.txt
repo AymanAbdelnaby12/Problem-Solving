@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\bin\Debug\net6.0\number of letter in this string.exe
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\bin\Debug\net6.0\number of letter in this string.deps.json
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\bin\Debug\net6.0\number of letter in this string.runtimeconfig.json
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\bin\Debug\net6.0\number of letter in this string.dll
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\bin\Debug\net6.0\number of letter in this string.pdb
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\number of letter in this string.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\number of letter in this string.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\number of letter in this string.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\number of letter in this string.AssemblyInfo.cs
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\number of letter in this string.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\number of letter in this string.dll
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\refint\number of letter in this string.dll
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\number of letter in this string.pdb
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\number of letter in this string.genruntimeconfig.cache
+E:\اسامة الزيرو\number of letter in this string\number of letter in this string\obj\Debug\net6.0\ref\number of letter in this string.dll

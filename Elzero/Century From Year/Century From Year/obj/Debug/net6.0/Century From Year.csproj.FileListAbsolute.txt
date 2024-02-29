@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\Century From Year\Century From Year\bin\Debug\net6.0\Century From Year.exe
+E:\اسامة الزيرو\Century From Year\Century From Year\bin\Debug\net6.0\Century From Year.deps.json
+E:\اسامة الزيرو\Century From Year\Century From Year\bin\Debug\net6.0\Century From Year.runtimeconfig.json
+E:\اسامة الزيرو\Century From Year\Century From Year\bin\Debug\net6.0\Century From Year.dll
+E:\اسامة الزيرو\Century From Year\Century From Year\bin\Debug\net6.0\Century From Year.pdb
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\Century From Year.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\Century From Year.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\Century From Year.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\Century From Year.AssemblyInfo.cs
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\Century From Year.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\Century From Year.dll
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\refint\Century From Year.dll
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\Century From Year.pdb
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\Century From Year.genruntimeconfig.cache
+E:\اسامة الزيرو\Century From Year\Century From Year\obj\Debug\net6.0\ref\Century From Year.dll

@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\max and min\max and min\bin\Debug\net6.0\max and min.exe
+E:\اسامة الزيرو\max and min\max and min\bin\Debug\net6.0\max and min.deps.json
+E:\اسامة الزيرو\max and min\max and min\bin\Debug\net6.0\max and min.runtimeconfig.json
+E:\اسامة الزيرو\max and min\max and min\bin\Debug\net6.0\max and min.dll
+E:\اسامة الزيرو\max and min\max and min\bin\Debug\net6.0\max and min.pdb
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\max and min.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\max and min.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\max and min.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\max and min.AssemblyInfo.cs
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\max and min.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\max and min.dll
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\refint\max and min.dll
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\max and min.pdb
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\max and min.genruntimeconfig.cache
+E:\اسامة الزيرو\max and min\max and min\obj\Debug\net6.0\ref\max and min.dll

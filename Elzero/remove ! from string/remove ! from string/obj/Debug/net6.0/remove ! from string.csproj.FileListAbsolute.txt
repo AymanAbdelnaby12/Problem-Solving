@@ -1,0 +1,15 @@
+E:\اسامة الزيرو\remove ! from string\remove ! from string\bin\Debug\net6.0\remove ! from string.exe
+E:\اسامة الزيرو\remove ! from string\remove ! from string\bin\Debug\net6.0\remove ! from string.deps.json
+E:\اسامة الزيرو\remove ! from string\remove ! from string\bin\Debug\net6.0\remove ! from string.runtimeconfig.json
+E:\اسامة الزيرو\remove ! from string\remove ! from string\bin\Debug\net6.0\remove ! from string.dll
+E:\اسامة الزيرو\remove ! from string\remove ! from string\bin\Debug\net6.0\remove ! from string.pdb
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\remove ! from string.csproj.AssemblyReference.cache
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\remove ! from string.GeneratedMSBuildEditorConfig.editorconfig
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\remove ! from string.AssemblyInfoInputs.cache
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\remove ! from string.AssemblyInfo.cs
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\remove ! from string.csproj.CoreCompileInputs.cache
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\remove ! from string.dll
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\refint\remove ! from string.dll
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\remove ! from string.pdb
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\remove ! from string.genruntimeconfig.cache
+E:\اسامة الزيرو\remove ! from string\remove ! from string\obj\Debug\net6.0\ref\remove ! from string.dll
